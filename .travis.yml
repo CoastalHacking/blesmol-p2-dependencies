@@ -1,0 +1,7 @@
+sudo: false
+language: java
+jdk:
+- oraclejdk8
+# before_deploy:
+# - export RELEASE_PKG_FILE="us.coastalhacking.blesmol.dependencies.p2/releng/us.coastalhacking.blesmol.dependencies.p2.site/target/us.coastalhacking.blesmol.dependencies.p2.site-0.0.1-SNAPSHOT.zip"
+# - echo "deploying ${RELEASE_PKG_FILE} to GitHub releases"

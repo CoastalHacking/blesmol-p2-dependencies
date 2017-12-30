@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/us.coastalhacking.blesmol.dependencies.p2.emf.feature_0.0.1.qualifier.jar" id="us.coastalhacking.blesmol.dependencies.p2.emf.feature" version="0.0.1.qualifier">
+      <category name="blesmoldeps"/>
+   </feature>
+   <category-def name="blesmoldeps" label="Blesmol Dependencies"/>
+</site>
