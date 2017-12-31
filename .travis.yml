@@ -14,7 +14,7 @@ before_install:
 before_script:
   - export M2_HOME=$PWD/apache-maven-3.5.2
   - export PATH=$PWD/apache-maven-3.5.2/bin:${PATH}
-  - hash -rs
+  - hash -r
 script: cd us.coastalhacking.blesmol.dependencies.p2 && mvn clean verify
 before_deploy:
   - git config --local user.name "jonpasski"
