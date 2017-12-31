@@ -25,7 +25,7 @@ deploy:
   skip_cleanup: true
   api_key:
     secure: H1G5xbfFPfiqiiqhaV/rCmWvF7Rdm45clnt9nKVF4F/XpuinRcFWE7a+seF8ZS9c4aWzZHeV2coeSSIOYEN3d2f47gHMpfjZF+EcTQVygVaOduGeYzNCXiRvWDopJpjJSVg/NMndJZd3BtWnn9qYnrXz3IakQsQpbCPXBG5NWaeg76l0EELFkWpvH/MI4H9MHypJ4B1JFBp2URnxe1KCf7Q0CR6zX3rNHok8q+AUKCTQ89krwTiHUXJ9FnvlOiObilXSc53OP+iiMckajGLKueSHLysGAsdpXPDgJIPwivWeEsFiL+JnvDQc3/zvS5ZK9/zA+ctTqFmNvgRjnlLRKDvgX/tw+pwmyVqxp951iy5n7Upp3Ors6ng9Xv/lxP1nYJ8TuuIFOaxKcvh2xSRsR0J4ywgI9AhSG5GyEY/pxtYxTuBGs4EQyNtI+/K+YMhLpoV1TFPnhK2FfdnfbmNMjxu/fXoF46v4fG9vsTPLCQvWDmNm87+29/rZj9+ydCGgTyGH+T8NBIGLetc700i+5yvP5dggBQEbv1AvRd04LGufRnDI7t7TyjjwYoo0ymw0aFP/GyaOPMH+ojy4tlJCEoTtpiQLgZlZTwNT1HRa+1DdZ0NsbobrUZwOdVyB4bzW3vUrYp8fhFZ/KLT4FrsIfTWEVA6+xsJcHCF5xPzWCh4=
-  file: us.coastalhacking.blesmol.dependencies.p2/releng/us.coastalhacking.blesmol.dependencies.p2.site/target/us.coastalhacking.blesmol.dependencies.p2.site-0.0.1-SNAPSHOT.zip
+  file: releng/us.coastalhacking.blesmol.dependencies.p2.site/target/us.coastalhacking.blesmol.dependencies.p2.site-0.0.1-SNAPSHOT.zip
 #  on:
 #    repo: CoastalHacking/blesmol-p2-dependencies
 #    tags: true
